@@ -40,7 +40,6 @@ a {
 }
 body{
     background-image: url(./img/old_map\ \(1\).png);
-    
 }
 h1 {
     width: 750px;
@@ -53,9 +52,10 @@ h1 {
     text-align: start;
 
 }
+
 .container {
     width: 800px;
-    margin-left: 560px;
+    margin: 0px auto;
     align-items: center;
     justify-content: center;
     padding-top: 59px;
